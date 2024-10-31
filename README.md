@@ -1,6 +1,6 @@
 # Arduino Catchphrase Game
 
-An Arduino Uno R3 version of the electronic party game Catchphrase. Players have to make their teammates guess words from different categories before time runs out. This is only a prototype, I have components otw to build a complete version with a speaker and bluetooth connectivity for the addition of new categories. Stay tuned!
+An Arduino Uno R3 version of the electronic party game Catchphrase. Players have to make their teammates guess words from different categories before time runs out. This is only a prototype, I have components otw to build a complete version housed in (plastic/wood/something else?) with a speaker and bluetooth connectivity for the addition of new categories. Stay tuned!
 
 ## Hardware Requirements
 
